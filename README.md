@@ -1,4 +1,4 @@
-# GCloud PubSub Client [![build-badge][]][build] [![micro-badge][]][microb] [![pulls-badge][]][pulls] [![stars-badge][]][stars]
+# GCloud PubSub Client [![build-badge][]][build] [![microb-badge][]][microb] [![pulls-badge][]][pulls] [![stars-badge][]][stars]
 
 [build]:        https://hub.docker.com/r/martynas/gcloud-pubsub-client/builds/
 [build-badge]:  https://img.shields.io/docker/build/martynas/gcloud-pubsub-client.svg
